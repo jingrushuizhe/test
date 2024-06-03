@@ -1,0 +1,2 @@
+HelloWorld
+-DCATKIN_DEVEL_PREFIX=/home/jing/catkin_1/devel -DCMAKE_INSTALL_PREFIX=/home/jing/catkin_1/install -G Unix Makefiles
